@@ -1,0 +1,35 @@
+#abc{
+    text-shadow: 0px 0px 30px cyan;
+    color: rgb(205, 199, 199);
+    font-size: 50px;
+    
+}
+.main{
+    justify-items: center;
+    align-content: center;
+}
+.row2{
+    display: flex;
+    gap: 50px;
+}
+img{
+    height: 450px;
+    width: 300px;
+}
+.img1:hover{
+ #one{
+    opacity: 1;
+    font-size: xx-large;
+    margin-left:20px;
+ }
+}
+figcaption{
+    opacity: 0;
+}
+.img2:hover{
+    #two{
+        opacity: 1;
+        font-size: xx-large;
+        margin-left: 30%;
+    }
+}
